@@ -1,0 +1,9 @@
+/* Footer.css */
+.dark-bg {
+	font-family: "Lato", serif;
+	background-color: black;
+	color: white;
+	text-align: center;
+	padding: 2rem;
+	margin-top:8rem;
+}

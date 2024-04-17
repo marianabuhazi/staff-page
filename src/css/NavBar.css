@@ -1,0 +1,39 @@
+span {
+	font-family: "Merriweather", serif;
+	padding-left: 0.25rem;
+	font-size: 3.25rem;
+	color: white;
+}
+
+.logo-container {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+}
+
+.logo-name{
+	font-family: "Merriweather", serif;
+	padding-left: 0.25rem;
+	font-size: 2rem;
+	color: white;
+	font-weight: bold;
+}
+
+.logo-subname{
+	display:block;
+	font-size: 0.70rem;
+	margin-top: -7px;
+	margin-left: 4.70rem;
+	color: white;
+	font-family: "Lato", sans-serif;
+	text-transform: uppercase;
+}
+
+.nav-item, .dropdown-item {
+	font-family: "Lato", serif;
+	font-size:1.15rem;
+}
+
+.dark-bg-color {
+	background-color: black;
+}

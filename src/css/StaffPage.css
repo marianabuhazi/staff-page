@@ -1,0 +1,52 @@
+.header {
+	display: flex;
+	align-items: center;
+	font-family: "Merriweather", serif;
+	font-weight:bold;
+	font-size: 4rem;
+	margin:5rem;
+	margin-bottom:1rem;
+	letter-spacing: 3px;
+	border-left: 6px solid #60B3FB;
+  	height: 80px;
+	padding-left:1.5rem;
+}
+
+.summary {
+	font-family: "Lato", serif;
+	margin:0rem 7rem;
+	margin-bottom:1rem;
+	font-size:1.2rem;
+}
+
+.header-container {
+	width:75%;
+	margin-bottom:5rem;
+}
+
+.d-flex {
+	height:50px;
+	width:40%;
+	margin-left: 30rem;
+	font-family: "Lato", serif !important;
+}
+
+.btn {
+	color:white !important;
+	background-color:black !important;
+}
+
+.btn:hover {
+	opacity: 0.5;
+}
+
+body.dark-mode {
+	/* Dark mode styles */
+	background-color: #222;
+	color: #fff;
+}
+
+.form-check, .form-switch .ms-2 {
+	padding-right:1rem;
+	font-size:1rem;
+}
